@@ -14,16 +14,17 @@ var y = 10;
 var z = x + y;
 ```
 
-##Table
+##Tables
 | Column 1     | Column 2      | Column 3  |
 | :------------|:-------------:| ---------:|
 | col 3 is     | right-aligned | $1600     |
 | col 2 is     | centered      |   $12     |
 | col 1  is    | left-aligned  |    $1     |
 
-##Image
-This image is from the Vision API docs on creating a thumbnail image 
-![thumbnail-demo](./Images/thumbnail-demo.png)
+##Images
+This image is from the Vision API docs on creating a thumbnail image:
 
-##Link
+![thumbnail-demo](/Images/thumbnail-demo.png)
+
+##Links
 This is a link to [Bing](https://www.bing.com)
