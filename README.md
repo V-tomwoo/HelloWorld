@@ -22,6 +22,8 @@ var z = x + y;
 | col 1  is    | left-aligned  |    $1     |
 
 ##Image
+This image is from the Vision API docs on creating a thumbnail image 
+![thumbnail-demo](./Images/thumbnail-demo.png)
 
 ##Link
 This is a link to [Bing](https://www.bing.com)
