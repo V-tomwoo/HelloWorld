@@ -1,4 +1,6 @@
 # HelloWorld
+
+Simple syntax:
 - This is an unordered list
 - *This is italics*
 - **This is bold**
@@ -19,4 +21,7 @@ var z = x + y;
 | col 2 is     | centered      |   $12     |
 | col 1  is    | left-aligned  |    $1     |
 
+##Image
 
+##Link
+This is a link to [Bing](https://www.bing.com)
