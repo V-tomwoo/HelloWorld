@@ -24,7 +24,7 @@ var z = x + y;
 ##Images
 This image is from the Vision API docs on creating a thumbnail image:
 
-![thumbnail-demo](/Images/thumbnail-demo.png)
+![thumbnail-demo](Computer-Vision-API/documentation/GetThumbnail/Images/thumbnail-demo.png)
 
 ##Links
 This is a link to [Bing](https://www.bing.com)
