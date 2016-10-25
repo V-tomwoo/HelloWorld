@@ -24,7 +24,7 @@ var z = x + y;
 ##Images
 This the cover art for my latest book:
 
-![Book Cover](.HelloWorld/covertest1.jpg )
+![Book Cover](https://github.com/V-tomwoo/HelloWorld/blob/master/covertest1.jpg)
 
 ##Links
 This is a link to [Bing](https://www.bing.com)
