@@ -22,9 +22,9 @@ var z = x + y;
 | col 1  is    | left-aligned  |    $1     |
 
 ##Images
-This image is from the Vision API docs on creating a thumbnail image:
+This the cover art for my latest book:
 
-![thumbnail-demo](Computer-Vision-API/documentation/GetThumbnail/Images/thumbnail-demo.png)
+![Book Cover](HelloWorld/covertest1.jpg )
 
 ##Links
 This is a link to [Bing](https://www.bing.com)
