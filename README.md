@@ -1,7 +1,7 @@
 # HelloWorld
 - This is an unordered list
-- * This is italics *
-- ** This is bold **
+- *This is italics*
+- **This is bold**
 
 This is just a regular paragraph.
 
