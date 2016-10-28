@@ -7,11 +7,31 @@ Simple syntax:
 
 This is just a regular paragraph.
 
-This is a code example:
+This is a C# code example:
 ```C#
 var x = 5;
 var y = 10;
 var z = x + y;
+```
+This is a JSON code example:
+```JSON
+{
+“tags”: [
+          {
+            "name": "grass",
+              "confidence": 0.999999761581421
+          },
+          {
+            "name": "outdoor",
+              "confidence": 0.999970674514771
+          },
+          {
+              "name": "sky",
+                "confidence": 999289751052856
+          }
+     [
+}
+
 ```
 
 ##Tables
