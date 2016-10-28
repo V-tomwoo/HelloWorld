@@ -8,7 +8,7 @@ Simple syntax:
 This is just a regular paragraph.
 
 This is a code example:
-```JavaScript
+```C#
 var x = 5;
 var y = 10;
 var z = x + y;
